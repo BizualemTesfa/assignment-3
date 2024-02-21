@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #61122F;
+}
+body{
+	background-color: #61122F;
+	color: white;
+}
+
+.container{
+	background-color: grey;
+}
+
+h2{
+	text-align: center;
+}
+.company-name{
+	font-size: 40px;
+}
+.navbar-brand{
+	font-size: 40px;
+}
+.nav-link{
+	border: 1px solid #22ff62;
+	text-align: center;
+}
